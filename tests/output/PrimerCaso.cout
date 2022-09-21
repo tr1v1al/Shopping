@@ -1,0 +1,104 @@
+
+Reading from ./data/PrimerCaso.dataset
+Number of events with non null session in index: 20
+After filtering sessions (type == cart): 20 sessions
+There are 6 unique brands in the filtered sessions
+Adjacency Matrix 
+6 6
+nitrimax markell roubloff veraclara ingarden haruyama 
+nitrimax markell roubloff veraclara ingarden haruyama 
+0 3 0 0 1 0 
+3 0 1 2 0 0 
+0 1 0 0 0 1 
+0 2 0 0 1 0 
+1 0 0 1 0 0 
+0 0 1 0 0 0 
+
+After the teletransportation: 
+6 6
+nitrimax markell roubloff veraclara ingarden haruyama 
+nitrimax markell roubloff veraclara ingarden haruyama 
+0.025 0.6625 0.025 0.025 0.2375 0.025 
+0.45 0.025 0.166667 0.308333 0.025 0.025 
+0.025 0.45 0.025 0.025 0.025 0.45 
+0.025 0.591667 0.025 0.025 0.308333 0.025 
+0.45 0.025 0.025 0.45 0.025 0.025 
+0.025 0.025 0.875 0.025 0.025 0.025 
+
+PageRank at iteration 0
+1 6
+pr 
+nitrimax markell roubloff veraclara ingarden haruyama 
+0.166667 0.296528 0.190278 0.143056 0.107639 0.0958333 
+
+PageRank at iteration 1
+1 6
+pr 
+nitrimax markell roubloff veraclara ingarden haruyama 
+0.196771 0.293183 0.148466 0.154763 0.100949 0.105868 
+
+PageRank at iteration 2
+1 6
+pr 
+nitrimax markell roubloff veraclara ingarden haruyama 
+0.192506 0.301239 0.156522 0.150972 0.110663 0.0880982 
+
+PageRank at iteration 3
+1 6
+pr 
+nitrimax markell roubloff veraclara ingarden haruyama 
+0.200058 0.299795 0.142559 0.157383 0.108683 0.0915219 
+
+PageRank at iteration 4
+1 6
+pr 
+nitrimax markell roubloff veraclara ingarden haruyama 
+0.198603 0.302308 0.145265 0.156132 0.112104 0.0855876 
+
+PageRank at iteration 5
+1 6
+pr 
+nitrimax markell roubloff veraclara ingarden haruyama 
+0.201125 0.301822 0.140576 0.158298 0.111441 0.0867375 
+
+PageRank at iteration 6
+1 6
+pr 
+nitrimax markell roubloff veraclara ingarden haruyama 
+0.200637 0.302665 0.141485 0.157878 0.11259 0.084745 
+
+PageRank at iteration 7
+1 6
+pr 
+nitrimax markell roubloff veraclara ingarden haruyama 
+0.201483 0.302501 0.139911 0.158606 0.112368 0.0851311 
+
+PageRank at iteration 8
+1 6
+pr 
+nitrimax markell roubloff veraclara ingarden haruyama 
+0.201319 0.302784 0.140216 0.158465 0.112754 0.0844621 
+
+PageRank at iteration 9
+1 6
+pr 
+nitrimax markell roubloff veraclara ingarden haruyama 
+0.201604 0.30273 0.139687 0.158709 0.112679 0.0845917 
+
+Testeando
+
+         0         0         0         0         0         0         1
+
+  nitrimax   markell  roubloff veraclara  ingarden  haruyama
+
+
+         0         0         0         0         0         0         1
+
+  haruyama  ingarden   markell  nitrimax  roubloff veraclara
+
+
+
+    0.0843    0.1128    0.3028    0.2017    0.1396    0.1588    1.0000
+
+  haruyama  ingarden   markell  nitrimax  roubloff veraclara
+

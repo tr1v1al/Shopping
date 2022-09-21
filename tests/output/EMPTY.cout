@@ -1,0 +1,15 @@
+
+Please type the input file name: 
+Please type the number of records to read: Please select the field to index for (UserID, Brand): 
+Please select the field to filter with (DateTime, UserID, Brand, Type): 
+Please indicate the output file (empty for no output file): Events read: 0
+Events indexed: 0
+Events not indexed: 0
+Activity found: SUNDAY(0) MONDAY(0) TUESDAY(0) WEDNESDAY(0) THURSDAY(0) FRIDAY(0) SATURDAY(0)
+Highest traffic:  with 0 hits
+
+
+                    0
+
+
+                    0
